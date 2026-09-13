@@ -1,167 +1,306 @@
 <div align="center">
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,25&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=38&fontColor=fff&fontAlignY=38&animation=fadeIn&font-family=Segoe%20UI)](https://github.com/kautilya22)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Distributed+Systems;Architecting+AI+%26+ML+Pipelines;Scaling+Enterprise-Grade+Applications;Pushing+Open-Source+Boundaries)](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Systems-6A0DAD?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Global-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-<p align="center">
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@domain.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/username?color=6A0DAD&style=flat-square&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/username?color=4B0082&style=flat-square&logo=github&label=TOTAL+STARS" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniket%20Talan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML;Building+Intelligent+Systems;First-Year+Engineering+Student;Open+Source+%26+Product+Mindset" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Software%20Engineering-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍-Delhi%20NCR-7C3AED?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/AniketTalan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-talan-898682429">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aniketchoudharyy2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AniketTalan&style=for-the-badge&color=6D28D9" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AniketTalan?style=for-the-badge&logo=github&logoColor=white&color=4F46E5" />
+  <img src="https://img.shields.io/github/stars/AniketTalan?style=for-the-badge&logo=github&logoColor=white&color=7C3AED" />
+</div>
+
 ---
-## About Section
-I am a Senior Software Engineer and AI Researcher specializing in distributed system design, high-throughput backend architecture, and production-grade machine learning systems. My core expertise lies in bridging the gap between rigorous algorithmic design and scalable cloud infrastructure. With a product-engineering mindset, I build resilient systems that process millions of events with minimal latency, leveraging advanced deep learning paradigms and modern web frameworks.
-* **Core Focus:** Distributed Systems, LLM Orchestration, Real-time Data Streaming
-* **AI/ML Expertise:** Transformers, Computer Vision, Retrieval-Augmented Generation (RAG), Model Optimization
-* **Full Stack Development:** Microservices, Event-Driven Architecture, High-Performance APIs, Modern SPA Ecosystems
-* **Open To:** Senior Engineering Roles, AI Architecture Consultations, High-Impact Open Source Collaborations
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> About Me
+
+I am **Aniket Talan**, a first-year Computer Science engineering student based in Delhi NCR, driven by a deep interest in **software engineering** and **Artificial Intelligence / Machine Learning**.
+
+I focus on writing clean, efficient code and building practical systems that solve real problems. My current work spans full-stack development, algorithmic problem solving, and foundational AI/ML projects. I approach every project with a product-engineering mindset — thinking about scalability, user experience, and long-term maintainability even at the student level.
+
+I am actively building a strong foundation in core computer science, modern web technologies, and intelligent systems while contributing to open-source and personal projects.
+
+**Open To**
+- Software Engineering & AI/ML Internships
+- Open Source Collaborations
+- Hackathons & Technical Competitions
+- Mentorship & Learning Opportunities
+- Building impactful side projects
+
 ---
-## Tech Stack Section
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,rust,go,cpp,java,javascript&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,fastapi&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,elasticsearch,docker,kubernetes&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,jenkins,git,linux,nginx&perline=7" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css&theme=dark" />
 </p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,postgres&theme=dark" />
+</p>
+
+### Cloud, DevOps & Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker&theme=dark" />
+</p>
+
 ---
-## AI / ML Expertise Section
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Large Language Models** | Advanced | Fine-tuning, LoRA, QLoRA, vLLM deployment, and custom RAG architectures using vector databases (Pinecone, Qdrant). |
-| **Computer Vision** | Intermediate | Object detection, segmentation pipelines using PyTorch, OpenCV, and TensorRT optimization for edge devices. |
-| **MLOps & Pipeline Automation** | Advanced | End-to-end model tracking with MLflow, CI/CD for ML models, Triton Inference Server, and Kubernetes orchestration. |
-| **Data Engineering** | Advanced | High-throughput data ingestion pipelines with Apache Kafka, Spark, and distributed processing frameworks. |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="30" height="30" /> AI / ML Expertise
+
+| Domain                    | Proficiency     | Details                                      |
+|---------------------------|-----------------|----------------------------------------------|
+| Python for AI/ML          | Intermediate    | NumPy, Pandas, Scikit-learn, basic PyTorch   |
+| Machine Learning Basics   | Intermediate    | Supervised & Unsupervised algorithms         |
+| Deep Learning Foundations | Beginner+       | Neural Networks, CNNs, basic model training  |
+| NLP Fundamentals          | Beginner        | Text preprocessing, basic transformers intro |
+| Data Analysis & Visualization | Intermediate | Exploratory data analysis, Matplotlib/Seaborn |
+| ML Project Workflow       | Intermediate    | Data cleaning → Modeling → Evaluation        |
 
 ---
-## Featured Projects Section
-<details>
-<summary><b>🚀 Distributed LLM Inference Engine</b></summary>
-High-performance inference gateway optimized for serving large language models concurrently with low latency.
 
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | Python, Rust, FastAPI, gRPC, Docker, Kubernetes |
-| **Scale** | 100k+ requests/day, sub-50ms token latency |
-| **Performance** | Optimized memory pooling and TensorRT execution |
-| **Security** | OAuth2 token validation, rate-limiting, encrypted payload transit |
-| **Impact** | Reduced infrastructure costs by 45% while doubling throughput |
-| **Repository** | [github.com/username/llm-inference-engine](https://github.com) |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Projects" width="30" height="30" /> Featured Projects
 
-Designed and built a custom C++ and Python bridge for optimized KV-cache management, drastically minimizing memory fragmentation during concurrent multi-tenant generations.
-</details>
-<details>
-<summary><b>⚡ Real-Time Event Stream Analytics Platform</b></summary>
-Enterprise-grade data streaming platform capable of processing telemetry and user interaction events in real-time.
+**Summary:**
+<b>Intelligent Personal Assistant (AI Chatbot)</b>
+<br>
 
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | Go, Apache Kafka, Elasticsearch, Redis, React |
-| **Scale** | 10,000 events/sec ingestion rate |
-| **Performance** | P99 latency under 15ms across distributed consumer groups |
-| **Security** | mTLS inter-service communication, RBAC dashboard access |
-| **Impact** | Empowered real-time anomaly detection for critical financial transactions |
-| **Repository** | [github.com/username/stream-analytics](https://github.com) |
+A conversational AI assistant built with Python that answers queries, performs basic tasks, and demonstrates natural language understanding.
 
-Engineered a robust producer-consumer topology in Go with custom backpressure handling to eliminate data loss during unexpected traffic surges.
-</details>
+| Attribute     | Details                                      |
+|---------------|----------------------------------------------|
+| **Stack**     | Python, NLTK / basic Transformers, Flask     |
+| **Scale**     | Personal use + extensible API                |
+| **Performance**| Fast response with lightweight models       |
+| **Security**  | Input sanitization & rate limiting           |
+| **Impact**    | Demonstrates end-to-end AI application skills|
+| **Repository**| [github.com/AniketTalan/ai-assistant](https://github.com/AniketTalan) |
+
+Built as a foundational project to understand the complete pipeline of an AI-powered application — from data handling to inference and simple web serving.
+
+**Summary:**
+<b>Full-Stack Task Management System</b>
+<br>
+
+A clean, responsive task manager with user authentication, CRUD operations, and real-time status updates.
+
+| Attribute     | Details                                      |
+|---------------|----------------------------------------------|
+| **Stack**     | HTML, CSS, JavaScript, Node.js, Express, MongoDB |
+| **Scale**     | Multi-user ready                             |
+| **Performance**| Optimized frontend + efficient API queries  |
+| **Security**  | JWT authentication, input validation         |
+| **Impact**    | Solid demonstration of full-stack skills     |
+| **Repository**| [github.com/AniketTalan/task-manager](https://github.com/AniketTalan) |
+
+Focuses on clean architecture, RESTful design, and modern frontend practices.
+
+**Summary:**
+<b>Student Performance Prediction Model</b>
+<br>
+
+Machine learning model that predicts student academic performance using historical data and key features.
+
+| Attribute     | Details                                      |
+|---------------|----------------------------------------------|
+| **Stack**     | Python, Pandas, Scikit-learn, Matplotlib     |
+| **Scale**     | Educational dataset (thousands of records)   |
+| **Performance**| High accuracy with proper feature engineering|
+| **Security**  | Anonymized data handling                     |
+| **Impact**    | Practical application of ML in education     |
+| **Repository**| [github.com/AniketTalan/student-performance-ml](https://github.com/AniketTalan) |
+
+Covers the complete ML lifecycle: data cleaning, feature selection, model training, evaluation, and visualization.
+
+**Summary:**
+<b>Modern Portfolio & Project Showcase</b>
+<br>
+
+A responsive personal website built to showcase projects, skills, and contact information with a dark luxury aesthetic.
+
+| Attribute     | Details                                      |
+|---------------|----------------------------------------------|
+| **Stack**     | HTML, CSS, JavaScript, Tailwind              |
+| **Scale**     | Personal branding site                       |
+| **Performance**| Lightweight, fast-loading                    |
+| **Security**  | Static site best practices                   |
+| **Impact**    | Professional online presence                 |
+| **Repository**| [github.com/AniketTalan](https://github.com/AniketTalan) |
+
+Designed with a strong focus on visual hierarchy, responsiveness, and clean code.
+
 ---
-## Experience Section
-### Senior Software Engineer
-**Enterprise Tech Solutions**  
-*Jan 2024 – Present*
-* Architected and deployed microservices handling high-volume user traffic, increasing system availability to 99.99%.
-* Spearheaded the migration of monolithic infrastructure to a containerized Kubernetes environment managed via Terraform.
-* Mentored junior and mid-level engineers, establishing code quality standards, automated testing suites, and CI/CD pipelines.
-**Skills:** Go, Kubernetes, AWS, Terraform, Microservices, System Architecture
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="30" height="30" /> Experience
+
+**Aspiring Software Engineer & AI/ML Enthusiast**  
+*Personal Projects & Continuous Learning*  
+*2024 – Present*
+
+Actively building a strong technical foundation through structured learning, hands-on projects, and consistent practice.
+
+- Developing full-stack applications and AI/ML prototypes from scratch
+- Strengthening core CS fundamentals (DSA, OOP, System Design basics)
+- Exploring modern development workflows and best practices
+- Preparing for software engineering and AI/ML internship opportunities
+
+`Python` `Java` `JavaScript` `HTML/CSS` `C++` `Machine Learning` `Git`
+
 ---
-### Software Engineer - AI Systems
-**NextGen AI Labs**  
-*Jul 2022 – Dec 2023*
-* Developed internal ML training pipelines and inference microservices using PyTorch and FastAPI.
-* Integrated vector search capabilities into core products, improving recommendation engine precision by 35%.
-* Optimized database indexing queries, reducing lookup latency for heavy analytics workloads.
-**Skills:** Python, PyTorch, PostgreSQL, Redis, FastAPI, Docker
----
-## Achievements Section
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Achievements" width="30" height="30" /> Achievements
+
 <div align="center">
 
-| Recognition | Details |
-| :--- | :--- |
-| **AWS Certified Solutions Architect** | Achieved professional-tier certification demonstrating mastery of cloud architecture. |
-| **Top 1% Global Contributor** | Recognized for high-impact open-source contributions in distributed systems ecosystems. |
-| **Hackathon Winner (1st Place)** | Won national-level AI innovation challenge among 500+ competing developer teams. |
+| Recognition                        | Details                                              |
+|------------------------------------|------------------------------------------------------|
+| 50+ Professional Certifications    | Completed certifications across multiple platforms   |
+| Consistent Skill Building          | Continuous learning in Software Engineering & AI/ML  |
+| Project Portfolio Development      | Multiple end-to-end projects in web & AI domains     |
+| Academic Excellence Focus          | Strong foundation in Computer Science fundamentals   |
 
 </div>
+
 ---
-## Certifications Section
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%252FBig%20Data-005A9C?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Certifications" width="30" height="30" /> Certifications
+
+### AWS
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Foundational-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+### Oracle
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### NPTEL
+<p align="left">
+  <img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures-6D28D9?style=for-the-badge" />
+</p>
+
+### Cisco
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
 ---
-## Coding Profiles Section
-<p align="center">
-  <a href="https://leetcode.com/username"><img src="https://img.shields.io/badge/LeetCode-Expert%20(2000%2B)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/username"><img src="https://img.shields.io/badge/GeeksforGeeks-500%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/username"><img src="https://img.shields.io/badge/HackerRank-5%20Star%20Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/username"><img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Coding" width="30" height="30" /> Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="40"/>
+  </a>
+  <a href="https://www.codechef.com">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
+  </a>
+</div>
+
 ---
-## GitHub Analytics Section
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketTalan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketTalan&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketTalan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" height="180"/>
+</div>
+
 ---
-## GitHub Trophies Section
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" />
-</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophies" width="30" height="30" /> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AniketTalan&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
+</div>
+
 ---
-## Contribution Activity Section
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="30" height="30" /> Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketTalan&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
 ---
-## Contribution Snake Section
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AniketTalan/AniketTalan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
-## Current Focus Section
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Focus" width="30" height="30" /> Current Focus
+
 ```yaml
-Current Focus:
-  Learning:
-    - Advanced GPU Kernel Optimization & CUDA Programming
-    - Distributed Consensus Protocols (Raft, Paxos)
-  Building:
-    - High-throughput asynchronous task queue in Rust
-    - Enterprise RAG system with multi-agent orchestration
-  Exploring:
-    - Zero-knowledge proofs for secure decentralized authentication
-    - WebAssembly for edge compute inference workloads
-  Open To:
-    - Senior Engineering Consultations
-    - Open Source Collaboration on Core Infra Tools
+Learning:
+  - Advanced Python & Machine Learning
+  - Data Structures & Algorithms
+  - System Design Fundamentals
+  - Modern Full-Stack Development
+
+Building:
+  - AI/ML powered applications
+  - Full-stack web projects
+  - Open source contributions
+
+Exploring:
+  - Deep Learning & Generative AI
+  - Cloud computing (AWS)
+  - Backend architecture
+
+Open To:
+  - Internships in Software Engineering / AI-ML
+  - Collaborations on impactful projects
+  - Mentorship opportunities
